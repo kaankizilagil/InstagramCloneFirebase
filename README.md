@@ -2,7 +2,7 @@
 
 Android Application (Firebase, Create User, Upload Image, Connection Database, Filter, Recycler Adaptor)
 
-<img src="https://user-images.githubusercontent.com/27291967/73101600-1058e580-3f01-11ea-9ec5-5c581d51b8d4.png" width=200 height=325>
+<img src="https://user-images.githubusercontent.com/27291967/73101600-1058e580-3f01-11ea-9ec5-5c581d51b8d4.png" width=200 height=330>
 
 <img src="https://user-images.githubusercontent.com/27291967/73101601-10f17c00-3f01-11ea-9f77-8c3953950dac.png" width=200 height=300>
 
